@@ -72,10 +72,15 @@ Use your custom component in your HTML (html.heex) files:
 
 ## Regenerate icons
 
-Clone down the latest [Lucide Icons](https://github.com/lucide-icons/lucide) Github repo and run the generator task.
+Update the Lucide Git submodule to a specific version:
 
 ```bash
-git clone https://github.com/lucide-icons/lucide.git priv/lucide
+mix lucide.update 1.7.0
+```
+
+Generate icons:
+
+```bash
 mix lucide.gen
 ```
 

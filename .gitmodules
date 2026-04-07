@@ -1,0 +1,3 @@
+[submodule "priv/lucide"]
+	path = priv/lucide
+	url = git@github.com:lucide-icons/lucide.git

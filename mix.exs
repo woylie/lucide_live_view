@@ -58,8 +58,26 @@ defmodule Lucide.MixProject do
 
   defp aliases do
     [
-      setup: ["deps.get", "deps.compile", "compile"]
+      setup: ["deps.get", "deps.compile", "compile"],
+      "lucide.update": [
+        "cmd git -C priv/lucide fetch --tags",
+        &update_lucide/1
+      ]
     ]
+  end
+
+  defp update_lucide([version]) do
+    Mix.shell().cmd("git -C priv/lucide checkout #{version}", [])
+  end
+
+  defp update_lucide(_) do
+    IO.puts("""
+    Usage:
+
+        mix lucide.update x.x.x
+    """)
+
+    System.halt(1)
   end
 
   defp package do
