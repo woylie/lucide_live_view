@@ -33,7 +33,7 @@ defmodule Mix.Tasks.Lucide.Gen do
     svg_content =
       File.read!(svg_filepath)
       |> String.trim()
-      |> String.replace(~r/<svg[:blank]*/, "<svg {@attrs}")
+      |> String.replace(~r/<svg[:blank]*/, "<svg {@attrs} aria-hidden=\"true\"")
 
     filename |> function_name() |> build_function(docs, svg_content)
   end
