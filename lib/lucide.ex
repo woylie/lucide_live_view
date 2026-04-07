@@ -1361,7 +1361,7 @@ defmodule Lucide do
     stroke-linecap="round"
     stroke-linejoin="round"
     >
-    <path d="M15 11a1 1 0 0 0 1 1h2.939a1 1 0 0 1 .75 1.811l-6.835 6.836a1.207 1.207 0 0 1-1.707 0L4.31 13.81a1 1 0 0 1 .75-1.811H8a1 1 0 0 0 1-1V9a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1z" />
+    <path d="M14 8a1 1 0 0 1 1 1v2a1 1 0 0 0 1 1h3.293a.707.707 0 0 1 .5 1.207l-6.939 6.939a1.207 1.207 0 0 1-1.708 0l-6.94-6.94a.707.707 0 0 1 .5-1.206H8a1 1 0 0 0 1-1V9a1 1 0 0 1 1-1z" />
     <path d="M9 4h6" />
     </svg>
     """
@@ -1384,7 +1384,7 @@ defmodule Lucide do
     stroke-linecap="round"
     stroke-linejoin="round"
     >
-    <path d="M15 11a1 1 0 0 0 1 1h2.939a1 1 0 0 1 .75 1.811l-6.835 6.836a1.207 1.207 0 0 1-1.707 0L4.31 13.81a1 1 0 0 1 .75-1.811H8a1 1 0 0 0 1-1V5a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1z" />
+    <path d="M9 5a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v6a1 1 0 0 0 1 1h3.293a.707.707 0 0 1 .5 1.207l-7.086 7.086a1 1 0 0 1-1.414 0l-7.086-7.086a.707.707 0 0 1 .5-1.207H8a1 1 0 0 0 1-1z" />
     </svg>
     """
   end
@@ -1406,7 +1406,7 @@ defmodule Lucide do
     stroke-linecap="round"
     stroke-linejoin="round"
     >
-    <path d="M13 9a1 1 0 0 1-1-1V5.061a1 1 0 0 0-1.811-.75l-6.835 6.836a1.207 1.207 0 0 0 0 1.707l6.835 6.835a1 1 0 0 0 1.811-.75V16a1 1 0 0 1 1-1h2a1 1 0 0 0 1-1v-4a1 1 0 0 0-1-1z" />
+    <path d="M13 9a1 1 0 0 1-1-1V4.707a.707.707 0 0 0-1.207-.5l-6.94 6.94a1.207 1.207 0 0 0 0 1.707l6.94 6.94a.707.707 0 0 0 1.207-.5V16a1 1 0 0 1 1-1h2a1 1 0 0 0 1-1v-4a1 1 0 0 0-1-1z" />
     <path d="M20 9v6" />
     </svg>
     """
@@ -1429,7 +1429,7 @@ defmodule Lucide do
     stroke-linecap="round"
     stroke-linejoin="round"
     >
-    <path d="M13 9a1 1 0 0 1-1-1V5.061a1 1 0 0 0-1.811-.75l-6.835 6.836a1.207 1.207 0 0 0 0 1.707l6.835 6.835a1 1 0 0 0 1.811-.75V16a1 1 0 0 1 1-1h6a1 1 0 0 0 1-1v-4a1 1 0 0 0-1-1z" />
+    <path d="M10.793 19.793a.707.707 0 0 0 1.207-.5V16a1 1 0 0 1 1-1h6a1 1 0 0 0 1-1v-4a1 1 0 0 0-1-1h-6a1 1 0 0 1-1-1V4.707a.707.707 0 0 0-1.207-.5l-6.94 6.94a1.207 1.207 0 0 0 0 1.707z" />
     </svg>
     """
   end
@@ -1451,7 +1451,7 @@ defmodule Lucide do
     stroke-linecap="round"
     stroke-linejoin="round"
     >
-    <path d="M11 9a1 1 0 0 0 1-1V5.061a1 1 0 0 1 1.811-.75l6.836 6.836a1.207 1.207 0 0 1 0 1.707l-6.836 6.835a1 1 0 0 1-1.811-.75V16a1 1 0 0 0-1-1H9a1 1 0 0 1-1-1v-4a1 1 0 0 1 1-1z" />
+    <path d="M11 9a1 1 0 0 0 1-1V4.707a.707.707 0 0 1 1.207-.5l6.94 6.94a1.207 1.207 0 0 1 0 1.707l-6.94 6.94a.707.707 0 0 1-1.207-.5V16a1 1 0 0 0-1-1H9a1 1 0 0 1-1-1v-4a1 1 0 0 1 1-1z" />
     <path d="M4 9v6" />
     </svg>
     """
@@ -1474,7 +1474,7 @@ defmodule Lucide do
     stroke-linecap="round"
     stroke-linejoin="round"
     >
-    <path d="M11 9a1 1 0 0 0 1-1V5.061a1 1 0 0 1 1.811-.75l6.836 6.836a1.207 1.207 0 0 1 0 1.707l-6.836 6.835a1 1 0 0 1-1.811-.75V16a1 1 0 0 0-1-1H5a1 1 0 0 1-1-1v-4a1 1 0 0 1 1-1z" />
+    <path d="M13.207 19.793a.707.707 0 0 1-1.207-.5V16a1 1 0 0 0-1-1H5a1 1 0 0 1-1-1v-4a1 1 0 0 1 1-1h6a1 1 0 0 0 1-1V4.707a.707.707 0 0 1 1.207-.5l6.94 6.94a1.207 1.207 0 0 1 0 1.707z" />
     </svg>
     """
   end
@@ -1496,7 +1496,7 @@ defmodule Lucide do
     stroke-linecap="round"
     stroke-linejoin="round"
     >
-    <path d="M9 13a1 1 0 0 0-1-1H5.061a1 1 0 0 1-.75-1.811l6.836-6.835a1.207 1.207 0 0 1 1.707 0l6.835 6.835a1 1 0 0 1-.75 1.811H16a1 1 0 0 0-1 1v2a1 1 0 0 1-1 1h-4a1 1 0 0 1-1-1z" />
+    <path d="M14 16a1 1 0 0 0 1-1v-2a1 1 0 0 1 1-1h3.293a.707.707 0 0 0 .5-1.207l-6.939-6.939a1.207 1.207 0 0 0-1.708 0l-6.94 6.94a.707.707 0 0 0 .5 1.206H8a1 1 0 0 1 1 1v2a1 1 0 0 0 1 1z" />
     <path d="M9 20h6" />
     </svg>
     """
@@ -1519,7 +1519,7 @@ defmodule Lucide do
     stroke-linecap="round"
     stroke-linejoin="round"
     >
-    <path d="M9 13a1 1 0 0 0-1-1H5.061a1 1 0 0 1-.75-1.811l6.836-6.835a1.207 1.207 0 0 1 1.707 0l6.835 6.835a1 1 0 0 1-.75 1.811H16a1 1 0 0 0-1 1v6a1 1 0 0 1-1 1h-4a1 1 0 0 1-1-1z" />
+    <path d="M9 19a1 1 0 0 0 1 1h4a1 1 0 0 0 1-1v-6a1 1 0 0 1 1-1h3.293a.707.707 0 0 0 .5-1.207l-7.086-7.086a1 1 0 0 0-1.414 0l-7.086 7.086a.707.707 0 0 0 .5 1.207H8a1 1 0 0 1 1 1z" />
     </svg>
     """
   end
@@ -3710,6 +3710,33 @@ defmodule Lucide do
     <path d="M2 8h18a2 2 0 0 1 2 2v10" />
     <path d="M2 17h20" />
     <path d="M6 8v9" />
+    </svg>
+    """
+  end
+
+  @doc "beef-off.svg"
+  def beef_off(assigns) do
+    attrs = assigns_to_attributes(assigns)
+    assigns = assign(assigns, :attrs, attrs)
+
+    ~H"""
+    <svg {@attrs}
+    xmlns="http://www.w3.org/2000/svg"
+    width="24"
+    height="24"
+    viewBox="0 0 24 24"
+    fill="none"
+    stroke="currentColor"
+    stroke-width="2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    >
+    <path d="M11.771 6.109a2.5 2.5 0 0 1 3.12 3.12" />
+    <path d="M17.852 12.185a6.5 6.5 0 0 0-9.035-9.04" />
+    <path d="M18.013 18.013C15.029 20.349 10.831 22 7 22a3 3 0 0 1-2.68-1.66L2.4 16.5" />
+    <path d="m18.5 6 2.19 4.5a6.48 6.48 0 0 1-.139 4.393" />
+    <path d="m2 2 20 20" />
+    <path d="M6.355 6.37a7 7 0 0 0-.075.23c-1.1 3.13-.78 3.9-3.18 6.08A3 3 0 0 0 5 18c3.356 0 6.993-1.267 9.85-3.151" />
     </svg>
     """
   end
@@ -7447,6 +7474,33 @@ defmodule Lucide do
     """
   end
 
+  @doc "cctv-off.svg"
+  def cctv_off(assigns) do
+    attrs = assigns_to_attributes(assigns)
+    assigns = assign(assigns, :attrs, attrs)
+
+    ~H"""
+    <svg {@attrs}
+    xmlns="http://www.w3.org/2000/svg"
+    width="24"
+    height="24"
+    viewBox="0 0 24 24"
+    fill="none"
+    stroke="currentColor"
+    stroke-width="2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    >
+    <path d="m12.309 6.652 4.797 2.401a1 1 0 0 1 .447 1.341l-.501 1.001.605.605h2.725a1 1 0 0 1 .894 1.447l-.724 1.448" />
+    <path d="m15.166 15.166-.719 1.439a1 1 0 0 1-1.342.447L3.61 12.3a2.92 2.92 0 0 1-1.3-3.91L3.69 5.6a2.9 2.9 0 0 1 .873-1.037" />
+    <path d="M2 19h3.76a2 2 0 0 0 1.8-1.1l1.441-2.902" />
+    <path d="m2 2 20 20" />
+    <path d="M2 21v-4" />
+    <path d="M7 9h.01" />
+    </svg>
+    """
+  end
+
   @doc "cctv.svg"
   def cctv(assigns) do
     attrs = assigns_to_attributes(assigns)
@@ -8666,32 +8720,6 @@ defmodule Lucide do
     """
   end
 
-  @doc "chromium.svg"
-  def chromium(assigns) do
-    attrs = assigns_to_attributes(assigns)
-    assigns = assign(assigns, :attrs, attrs)
-
-    ~H"""
-    <svg {@attrs}
-    xmlns="http://www.w3.org/2000/svg"
-    width="24"
-    height="24"
-    viewBox="0 0 24 24"
-    fill="none"
-    stroke="currentColor"
-    stroke-width="2"
-    stroke-linecap="round"
-    stroke-linejoin="round"
-    >
-    <path d="M10.88 21.94 15.46 14" />
-    <path d="M21.17 8H12" />
-    <path d="M3.95 6.06 8.54 14" />
-    <circle cx="12" cy="12" r="10" />
-    <circle cx="12" cy="12" r="4" />
-    </svg>
-    """
-  end
-
   @doc "church.svg"
   def church(assigns) do
     attrs = assigns_to_attributes(assigns)
@@ -9537,8 +9565,17 @@ defmodule Lucide do
     assigns = assign(assigns, :attrs, attrs)
 
     ~H"""
-    <svg {@attrs} xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
-    stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <svg {@attrs}
+    xmlns="http://www.w3.org/2000/svg"
+    width="24"
+    height="24"
+    viewBox="0 0 24 24"
+    fill="none"
+    stroke="currentColor"
+    stroke-width="2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    >
     <circle cx="12" cy="19" r="2" />
     <circle cx="12" cy="5" r="2" />
     <circle cx="16" cy="12" r="2" />
@@ -9800,8 +9837,8 @@ defmodule Lucide do
     stroke-linecap="round"
     stroke-linejoin="round"
     >
-    <path d="M18 20a6 6 0 0 0-12 0" />
-    <circle cx="12" cy="10" r="4" />
+    <path d="M17.925 20.056a6 6 0 0 0-11.851.001" />
+    <circle cx="12" cy="11" r="4" />
     <circle cx="12" cy="12" r="10" />
     </svg>
     """
@@ -11349,59 +11386,6 @@ defmodule Lucide do
     >
     <path d="m16 18 6-6-6-6" />
     <path d="m8 6-6 6 6 6" />
-    </svg>
-    """
-  end
-
-  @doc "codepen.svg"
-  def codepen(assigns) do
-    attrs = assigns_to_attributes(assigns)
-    assigns = assign(assigns, :attrs, attrs)
-
-    ~H"""
-    <svg {@attrs}
-    xmlns="http://www.w3.org/2000/svg"
-    width="24"
-    height="24"
-    viewBox="0 0 24 24"
-    fill="none"
-    stroke="currentColor"
-    stroke-width="2"
-    stroke-linecap="round"
-    stroke-linejoin="round"
-    >
-    <polygon points="12 2 22 8.5 22 15.5 12 22 2 15.5 2 8.5 12 2" />
-    <line x1="12" x2="12" y1="22" y2="15.5" />
-    <polyline points="22 8.5 12 15.5 2 8.5" />
-    <polyline points="2 15.5 12 8.5 22 15.5" />
-    <line x1="12" x2="12" y1="2" y2="8.5" />
-    </svg>
-    """
-  end
-
-  @doc "codesandbox.svg"
-  def codesandbox(assigns) do
-    attrs = assigns_to_attributes(assigns)
-    assigns = assign(assigns, :attrs, attrs)
-
-    ~H"""
-    <svg {@attrs}
-    xmlns="http://www.w3.org/2000/svg"
-    width="24"
-    height="24"
-    viewBox="0 0 24 24"
-    fill="none"
-    stroke="currentColor"
-    stroke-width="2"
-    stroke-linecap="round"
-    stroke-linejoin="round"
-    >
-    <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z" />
-    <polyline points="7.5 4.21 12 6.81 16.5 4.21" />
-    <polyline points="7.5 19.79 7.5 14.6 3 12" />
-    <polyline points="21 12 16.5 14.6 16.5 19.79" />
-    <polyline points="3.27 6.96 12 12.01 20.73 6.96" />
-    <line x1="12" x2="12" y1="22.08" y2="12" />
     </svg>
     """
   end
@@ -13634,31 +13618,6 @@ defmodule Lucide do
     """
   end
 
-  @doc "dribbble.svg"
-  def dribbble(assigns) do
-    attrs = assigns_to_attributes(assigns)
-    assigns = assign(assigns, :attrs, attrs)
-
-    ~H"""
-    <svg {@attrs}
-    xmlns="http://www.w3.org/2000/svg"
-    width="24"
-    height="24"
-    viewBox="0 0 24 24"
-    fill="none"
-    stroke="currentColor"
-    stroke-width="2"
-    stroke-linecap="round"
-    stroke-linejoin="round"
-    >
-    <circle cx="12" cy="12" r="10" />
-    <path d="M19.13 5.09C15.22 9.14 10 10.44 2.25 10.94" />
-    <path d="M21.75 12.84c-6.62-1.41-12.14 1-16.38 6.32" />
-    <path d="M8.56 2.75c4.37 6 6 9.42 8 17.72" />
-    </svg>
-    """
-  end
-
   @doc "drill.svg"
   def drill(assigns) do
     attrs = assigns_to_attributes(assigns)
@@ -14421,28 +14380,6 @@ defmodule Lucide do
     """
   end
 
-  @doc "facebook.svg"
-  def facebook(assigns) do
-    attrs = assigns_to_attributes(assigns)
-    assigns = assign(assigns, :attrs, attrs)
-
-    ~H"""
-    <svg {@attrs}
-    xmlns="http://www.w3.org/2000/svg"
-    width="24"
-    height="24"
-    viewBox="0 0 24 24"
-    fill="none"
-    stroke="currentColor"
-    stroke-width="2"
-    stroke-linecap="round"
-    stroke-linejoin="round"
-    >
-    <path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z" />
-    </svg>
-    """
-  end
-
   @doc "factory.svg"
   def factory(assigns) do
     attrs = assigns_to_attributes(assigns)
@@ -14592,32 +14529,6 @@ defmodule Lucide do
     <path d="m9 22 3-8 3 8" />
     <path d="M8 22h8" />
     <path d="M18 18.7a9 9 0 1 0-12 0" />
-    </svg>
-    """
-  end
-
-  @doc "figma.svg"
-  def figma(assigns) do
-    attrs = assigns_to_attributes(assigns)
-    assigns = assign(assigns, :attrs, attrs)
-
-    ~H"""
-    <svg {@attrs}
-    xmlns="http://www.w3.org/2000/svg"
-    width="24"
-    height="24"
-    viewBox="0 0 24 24"
-    fill="none"
-    stroke="currentColor"
-    stroke-width="2"
-    stroke-linecap="round"
-    stroke-linejoin="round"
-    >
-    <path d="M5 5.5A3.5 3.5 0 0 1 8.5 2H12v7H8.5A3.5 3.5 0 0 1 5 5.5z" />
-    <path d="M12 2h3.5a3.5 3.5 0 1 1 0 7H12V2z" />
-    <path d="M12 12.5a3.5 3.5 0 1 1 7 0 3.5 3.5 0 1 1-7 0z" />
-    <path d="M5 19.5A3.5 3.5 0 0 1 8.5 16H12v3.5a3.5 3.5 0 1 1-7 0z" />
-    <path d="M5 12.5A3.5 3.5 0 0 1 8.5 9H12v7H8.5A3.5 3.5 0 0 1 5 12.5z" />
     </svg>
     """
   end
@@ -17567,28 +17478,6 @@ defmodule Lucide do
     """
   end
 
-  @doc "framer.svg"
-  def framer(assigns) do
-    attrs = assigns_to_attributes(assigns)
-    assigns = assign(assigns, :attrs, attrs)
-
-    ~H"""
-    <svg {@attrs}
-    xmlns="http://www.w3.org/2000/svg"
-    width="24"
-    height="24"
-    viewBox="0 0 24 24"
-    fill="none"
-    stroke="currentColor"
-    stroke-width="2"
-    stroke-linecap="round"
-    stroke-linejoin="round"
-    >
-    <path d="M5 16V9h14V2H5l14 14h-7m-7 0 7 7v-7m-7 0h7" />
-    </svg>
-    """
-  end
-
   @doc "frown.svg"
   def frown(assigns) do
     attrs = assigns_to_attributes(assigns)
@@ -17889,8 +17778,17 @@ defmodule Lucide do
     assigns = assign(assigns, :attrs, attrs)
 
     ~H"""
-    <svg {@attrs} xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
-    stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <svg {@attrs}
+    xmlns="http://www.w3.org/2000/svg"
+    width="24"
+    height="24"
+    viewBox="0 0 24 24"
+    fill="none"
+    stroke="currentColor"
+    stroke-width="2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    >
     <path
       d="M11.146 15.854a1.207 1.207 0 0 1 1.708 0l1.56 1.56A2 2 0 0 1 15 18.828V21a1 1 0 0 1-1 1h-4a1 1 0 0 1-1-1v-2.172a2 2 0 0 1 .586-1.414z" />
     <path
@@ -18512,51 +18410,6 @@ defmodule Lucide do
     """
   end
 
-  @doc "github.svg"
-  def github(assigns) do
-    attrs = assigns_to_attributes(assigns)
-    assigns = assign(assigns, :attrs, attrs)
-
-    ~H"""
-    <svg {@attrs}
-    xmlns="http://www.w3.org/2000/svg"
-    width="24"
-    height="24"
-    viewBox="0 0 24 24"
-    fill="none"
-    stroke="currentColor"
-    stroke-width="2"
-    stroke-linecap="round"
-    stroke-linejoin="round"
-    >
-    <path d="M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4" />
-    <path d="M9 18c-4.51 2-5-2-7-2" />
-    </svg>
-    """
-  end
-
-  @doc "gitlab.svg"
-  def gitlab(assigns) do
-    attrs = assigns_to_attributes(assigns)
-    assigns = assign(assigns, :attrs, attrs)
-
-    ~H"""
-    <svg {@attrs}
-    xmlns="http://www.w3.org/2000/svg"
-    width="24"
-    height="24"
-    viewBox="0 0 24 24"
-    fill="none"
-    stroke="currentColor"
-    stroke-width="2"
-    stroke-linecap="round"
-    stroke-linejoin="round"
-    >
-    <path d="m22 13.29-3.33-10a.42.42 0 0 0-.14-.18.38.38 0 0 0-.22-.11.39.39 0 0 0-.23.07.42.42 0 0 0-.14.18l-2.26 6.67H8.32L6.1 3.26a.42.42 0 0 0-.1-.18.38.38 0 0 0-.26-.08.39.39 0 0 0-.23.07.42.42 0 0 0-.14.18L2 13.29a.74.74 0 0 0 .27.83L12 21l9.69-6.88a.71.71 0 0 0 .31-.83Z" />
-    </svg>
-    """
-  end
-
   @doc "glass-water.svg"
   def glass_water(assigns) do
     attrs = assigns_to_attributes(assigns)
@@ -18748,8 +18601,8 @@ defmodule Lucide do
     stroke-linecap="round"
     stroke-linejoin="round"
     >
+    <path d="M2 17h18a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2H2" />
     <path d="M2 21V3" />
-    <path d="M2 5h18a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2.26" />
     <path d="M7 17v3a1 1 0 0 0 1 1h5a1 1 0 0 0 1-1v-3" />
     <circle cx="16" cy="11" r="2" />
     <circle cx="8" cy="11" r="2" />
@@ -20927,30 +20780,6 @@ defmodule Lucide do
     """
   end
 
-  @doc "instagram.svg"
-  def instagram(assigns) do
-    attrs = assigns_to_attributes(assigns)
-    assigns = assign(assigns, :attrs, attrs)
-
-    ~H"""
-    <svg {@attrs}
-    xmlns="http://www.w3.org/2000/svg"
-    width="24"
-    height="24"
-    viewBox="0 0 24 24"
-    fill="none"
-    stroke="currentColor"
-    stroke-width="2"
-    stroke-linecap="round"
-    stroke-linejoin="round"
-    >
-    <rect width="20" height="20" x="2" y="2" rx="5" ry="5" />
-    <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z" />
-    <line x1="17.5" x2="17.51" y1="6.5" y2="6.5" />
-    </svg>
-    """
-  end
-
   @doc "italic.svg"
   def italic(assigns) do
     attrs = assigns_to_attributes(assigns)
@@ -22184,6 +22013,33 @@ defmodule Lucide do
     """
   end
 
+  @doc "line-style.svg"
+  def line_style(assigns) do
+    attrs = assigns_to_attributes(assigns)
+    assigns = assign(assigns, :attrs, attrs)
+
+    ~H"""
+    <svg {@attrs}
+    xmlns="http://www.w3.org/2000/svg"
+    width="24"
+    height="24"
+    viewBox="0 0 24 24"
+    fill="none"
+    stroke="currentColor"
+    stroke-width="2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    >
+    <path d="M11 5h2" />
+    <path d="M15 12h6" />
+    <path d="M19 5h2" />
+    <path d="M3 12h6" />
+    <path d="M3 19h18" />
+    <path d="M3 5h2" />
+    </svg>
+    """
+  end
+
   @doc "link-2-off.svg"
   def link_2_off(assigns) do
     attrs = assigns_to_attributes(assigns)
@@ -22252,30 +22108,6 @@ defmodule Lucide do
     >
     <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" />
     <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" />
-    </svg>
-    """
-  end
-
-  @doc "linkedin.svg"
-  def linkedin(assigns) do
-    attrs = assigns_to_attributes(assigns)
-    assigns = assign(assigns, :attrs, attrs)
-
-    ~H"""
-    <svg {@attrs}
-    xmlns="http://www.w3.org/2000/svg"
-    width="24"
-    height="24"
-    viewBox="0 0 24 24"
-    fill="none"
-    stroke="currentColor"
-    stroke-width="2"
-    stroke-linecap="round"
-    stroke-linejoin="round"
-    >
-    <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z" />
-    <rect width="4" height="12" x="2" y="9" />
-    <circle cx="4" cy="4" r="2" />
     </svg>
     """
   end
@@ -23736,6 +23568,31 @@ defmodule Lucide do
     """
   end
 
+  @doc "map-pin-search.svg"
+  def map_pin_search(assigns) do
+    attrs = assigns_to_attributes(assigns)
+    assigns = assign(assigns, :attrs, attrs)
+
+    ~H"""
+    <svg {@attrs}
+    xmlns="http://www.w3.org/2000/svg"
+    width="24"
+    height="24"
+    viewBox="0 0 24 24"
+    fill="none"
+    stroke="currentColor"
+    stroke-width="2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    >
+    <path d="M 12.248 21.969 a 1 1 0 0 1 -0.849 -0.17 C 9.539 20.193 4 14.993 4 10 a 8 8 0 0 1 16 0 C 20 10.42 19.961 10.841 19.888 11.262" />
+    <path d="m22 22-1.88-1.88" />
+    <circle cx="12" cy="10" r="3" />
+    <circle cx="18" cy="18" r="3" />
+    </svg>
+    """
+  end
+
   @doc "map-pin-x-inside.svg"
   def map_pin_x_inside(assigns) do
     attrs = assigns_to_attributes(assigns)
@@ -25116,7 +24973,7 @@ defmodule Lucide do
     >
     <path d="M12 13v8" />
     <path d="M12 3v3" />
-    <path d="M4 6a1 1 0 0 0-1 1v5a1 1 0 0 0 1 1h13a2 2 0 0 0 1.152-.365l3.424-2.317a1 1 0 0 0 0-1.635l-3.424-2.318A2 2 0 0 0 17 6z" />
+    <path d="M18.172 6a2 2 0 0 1 1.414.586l2.06 2.06a1.207 1.207 0 0 1 0 1.708l-2.06 2.06a2 2 0 0 1-1.414.586H4a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1z" />
     </svg>
     """
   end
@@ -29136,29 +28993,6 @@ defmodule Lucide do
     """
   end
 
-  @doc "pocket.svg"
-  def pocket(assigns) do
-    attrs = assigns_to_attributes(assigns)
-    assigns = assign(assigns, :attrs, attrs)
-
-    ~H"""
-    <svg {@attrs}
-    xmlns="http://www.w3.org/2000/svg"
-    width="24"
-    height="24"
-    viewBox="0 0 24 24"
-    fill="none"
-    stroke="currentColor"
-    stroke-width="2"
-    stroke-linecap="round"
-    stroke-linejoin="round"
-    >
-    <path d="M20 3a2 2 0 0 1 2 2v6a1 1 0 0 1-20 0V5a2 2 0 0 1 2-2z" />
-    <path d="m8 10 4 4 4-4" />
-    </svg>
-    """
-  end
-
   @doc "podcast.svg"
   def podcast(assigns) do
     attrs = assigns_to_attributes(assigns)
@@ -29711,6 +29545,33 @@ defmodule Lucide do
     """
   end
 
+  @doc "radio-off.svg"
+  def radio_off(assigns) do
+    attrs = assigns_to_attributes(assigns)
+    assigns = assign(assigns, :attrs, attrs)
+
+    ~H"""
+    <svg {@attrs}
+    xmlns="http://www.w3.org/2000/svg"
+    width="24"
+    height="24"
+    viewBox="0 0 24 24"
+    fill="none"
+    stroke="currentColor"
+    stroke-width="2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    >
+    <path d="M10.4103 10.7852C10.1529 11.1218 10 11.5425 10 11.999C10 13.1036 10.8954 13.999 12 13.999C12.5077 13.999 12.9713 13.8098 13.324 13.498" />
+    <path d="M16.1992 7.80078C17.4739 9.07549 18.0422 10.8109 17.9039 12.5134" />
+    <path d="M19.0996 4.89844C22.0892 7.88804 22.7871 12.2879 21.1932 15.936" />
+    <path d="M2 2L22 22" />
+    <path d="M4.89961 19.0984C0.999609 15.1984 0.999609 8.79844 4.89961 4.89844" />
+    <path d="M7.79922 16.1992C5.66828 14.0683 5.51165 10.6498 7.32931 8.25" />
+    </svg>
+    """
+  end
+
   @doc "radio-receiver.svg"
   def radio_receiver(assigns) do
     attrs = assigns_to_attributes(assigns)
@@ -29811,30 +29672,6 @@ defmodule Lucide do
     <circle cx="19" cy="19" r="2" />
     <path d="m13.41 13.41 4.18 4.18" />
     <circle cx="12" cy="12" r="2" />
-    </svg>
-    """
-  end
-
-  @doc "rail-symbol.svg"
-  def rail_symbol(assigns) do
-    attrs = assigns_to_attributes(assigns)
-    assigns = assign(assigns, :attrs, attrs)
-
-    ~H"""
-    <svg {@attrs}
-    xmlns="http://www.w3.org/2000/svg"
-    width="24"
-    height="24"
-    viewBox="0 0 24 24"
-    fill="none"
-    stroke="currentColor"
-    stroke-width="2"
-    stroke-linecap="round"
-    stroke-linejoin="round"
-    >
-    <path d="M5 15h14" />
-    <path d="M5 9h14" />
-    <path d="m14 20-5-5 6-6-5-5" />
     </svg>
     """
   end
@@ -30774,6 +30611,31 @@ defmodule Lucide do
     <path d="M6.243 9.016a7 7 0 0 1 11.507-.009" />
     <path d="M9.35 14.53 12 11.22" />
     <path d="M9.35 14.53C7.728 12.246 6 10.221 6 7a6 5 0 0 1 12 0c-.005 3.22-1.778 5.235-3.43 7.5l3.557 4.527a1 1 0 0 1-.203 1.43l-1.894 1.36a1 1 0 0 1-1.384-.215L12 18l-2.679 3.593a1 1 0 0 1-1.39.213l-1.865-1.353a1 1 0 0 1-.203-1.422z" />
+    </svg>
+    """
+  end
+
+  @doc "road.svg"
+  def road(assigns) do
+    attrs = assigns_to_attributes(assigns)
+    assigns = assign(assigns, :attrs, attrs)
+
+    ~H"""
+    <svg {@attrs}
+    xmlns="http://www.w3.org/2000/svg"
+    width="24"
+    height="24"
+    viewBox="0 0 24 24"
+    fill="none"
+    stroke="currentColor"
+    stroke-width="2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    >
+    <path d="M12 17v4" />
+    <path d="M12 5V3" />
+    <path d="M12 9v3" />
+    <path d="M2.077 18.449A2 2 0 0 0 4 21h16a2 2 0 0 0 1.924-2.55l-4-14A2 2 0 0 0 16 3H8a2 2 0 0 0-1.924 1.45z" />
     </svg>
     """
   end
@@ -32701,6 +32563,68 @@ defmodule Lucide do
     """
   end
 
+  @doc "shield-cog-corner.svg"
+  def shield_cog_corner(assigns) do
+    attrs = assigns_to_attributes(assigns)
+    assigns = assign(assigns, :attrs, attrs)
+
+    ~H"""
+    <svg {@attrs}
+    xmlns="http://www.w3.org/2000/svg"
+    width="24"
+    height="24"
+    viewBox="0 0 24 24"
+    fill="none"
+    stroke="currentColor"
+    stroke-width="2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    >
+    <path d="M11 22c-3.806-1.45-7-3.966-7-9V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1v4" />
+    <path d="M14.923 16.547 14 16.164" />
+    <path d="m14.923 18.843-.923.383" />
+    <path d="M16.547 14.923 16.164 14" />
+    <path d="m16.547 20.467-.383.924" />
+    <path d="m18.843 14.923.383-.923" />
+    <path d="m19.225 21.391-.382-.924" />
+    <path d="m20.467 16.547.923-.383" />
+    <path d="m20.467 18.843.923.383" />
+    <circle cx="17.695" cy="17.695" r="3" />
+    </svg>
+    """
+  end
+
+  @doc "shield-cog.svg"
+  def shield_cog(assigns) do
+    attrs = assigns_to_attributes(assigns)
+    assigns = assign(assigns, :attrs, attrs)
+
+    ~H"""
+    <svg {@attrs}
+    xmlns="http://www.w3.org/2000/svg"
+    width="24"
+    height="24"
+    viewBox="0 0 24 24"
+    fill="none"
+    stroke="currentColor"
+    stroke-width="2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    >
+    <path d="m10.929 14.467-.383.924" />
+    <path d="M10.929 8.923 10.546 8" />
+    <path d="M13.225 8.923 13.608 8" />
+    <path d="m13.607 15.391-.382-.924" />
+    <path d="m14.849 10.547.923-.383" />
+    <path d="m14.849 12.843.923.383" />
+    <path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z" />
+    <path d="m9.305 10.547-.923-.383" />
+    <path d="m9.305 12.843-.923.383" />
+    <circle cx="12.077" cy="11.695" r="3" />
+    </svg>
+    """
+  end
+
   @doc "shield-ellipsis.svg"
   def shield_ellipsis(assigns) do
     attrs = assigns_to_attributes(assigns)
@@ -33462,7 +33386,7 @@ defmodule Lucide do
     >
     <path d="M12 13v8" />
     <path d="M12 3v3" />
-    <path d="M18 6a2 2 0 0 1 1.387.56l2.307 2.22a1 1 0 0 1 0 1.44l-2.307 2.22A2 2 0 0 1 18 13H6a2 2 0 0 1-1.387-.56l-2.306-2.22a1 1 0 0 1 0-1.44l2.306-2.22A2 2 0 0 1 6 6z" />
+    <path d="M2.354 10.354a1.207 1.207 0 0 1 0-1.708l2.06-2.06A2 2 0 0 1 5.828 6h12.344a2 2 0 0 1 1.414.586l2.06 2.06a1.207 1.207 0 0 1 0 1.708l-2.06 2.06a2 2 0 0 1-1.414.586H5.828a2 2 0 0 1-1.414-.586z" />
     </svg>
     """
   end
@@ -33563,35 +33487,6 @@ defmodule Lucide do
     <path d="M15 22a1 1 0 0 0 1-1v-1a2 2 0 0 0 1.56-3.25 8 8 0 1 0-11.12 0A2 2 0 0 0 8 20v1a1 1 0 0 0 1 1z" />
     <circle cx="15" cy="12" r="1" />
     <circle cx="9" cy="12" r="1" />
-    </svg>
-    """
-  end
-
-  @doc "slack.svg"
-  def slack(assigns) do
-    attrs = assigns_to_attributes(assigns)
-    assigns = assign(assigns, :attrs, attrs)
-
-    ~H"""
-    <svg {@attrs}
-    xmlns="http://www.w3.org/2000/svg"
-    width="24"
-    height="24"
-    viewBox="0 0 24 24"
-    fill="none"
-    stroke="currentColor"
-    stroke-width="2"
-    stroke-linecap="round"
-    stroke-linejoin="round"
-    >
-    <rect width="3" height="8" x="13" y="2" rx="1.5" />
-    <path d="M19 8.5V10h1.5A1.5 1.5 0 1 0 19 8.5" />
-    <rect width="3" height="8" x="8" y="14" rx="1.5" />
-    <path d="M5 15.5V14H3.5A1.5 1.5 0 1 0 5 15.5" />
-    <rect width="8" height="3" x="14" y="13" rx="1.5" />
-    <path d="M15.5 19H14v1.5a1.5 1.5 0 1 0 1.5-1.5" />
-    <rect width="8" height="3" x="2" y="8" rx="1.5" />
-    <path d="M8.5 5H10V3.5A1.5 1.5 0 1 0 8.5 5" />
     </svg>
     """
   end
@@ -34270,6 +34165,30 @@ defmodule Lucide do
     >
     <path d="M17 13.44 4.442 17.082A2 2 0 0 0 4.982 21H19a2 2 0 0 0 .558-3.921l-1.115-.32A2 2 0 0 1 17 14.837V7.66" />
     <path d="m7 10.56 12.558-3.642A2 2 0 0 0 19.018 3H5a2 2 0 0 0-.558 3.921l1.115.32A2 2 0 0 1 7 9.163v7.178" />
+    </svg>
+    """
+  end
+
+  @doc "sport-shoe.svg"
+  def sport_shoe(assigns) do
+    attrs = assigns_to_attributes(assigns)
+    assigns = assign(assigns, :attrs, attrs)
+
+    ~H"""
+    <svg {@attrs}
+    xmlns="http://www.w3.org/2000/svg"
+    width="24"
+    height="24"
+    viewBox="0 0 24 24"
+    fill="none"
+    stroke="currentColor"
+    stroke-width="2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    >
+    <path d="m15 10.42 4.8-5.07" />
+    <path d="M19 18h3" />
+    <path d="M9.5 22 21.414 9.415A2 2 0 0 0 21.2 6.4l-5.61-4.208A1 1 0 0 0 14 3v2a2 2 0 0 1-1.394 1.906L8.677 8.053A1 1 0 0 0 8 9c-.155 6.393-2.082 9-4 9a2 2 0 0 0 0 4h14" />
     </svg>
     """
   end
@@ -39028,30 +38947,6 @@ defmodule Lucide do
     """
   end
 
-  @doc "trello.svg"
-  def trello(assigns) do
-    attrs = assigns_to_attributes(assigns)
-    assigns = assign(assigns, :attrs, attrs)
-
-    ~H"""
-    <svg {@attrs}
-    xmlns="http://www.w3.org/2000/svg"
-    width="24"
-    height="24"
-    viewBox="0 0 24 24"
-    fill="none"
-    stroke="currentColor"
-    stroke-width="2"
-    stroke-linecap="round"
-    stroke-linejoin="round"
-    >
-    <rect width="18" height="18" x="3" y="3" rx="2" ry="2" />
-    <rect width="3" height="9" x="7" y="7" />
-    <rect width="3" height="5" x="14" y="7" />
-    </svg>
-    """
-  end
-
   @doc "trending-down.svg"
   def trending_down(assigns) do
     attrs = assigns_to_attributes(assigns)
@@ -39442,50 +39337,6 @@ defmodule Lucide do
     >
     <path d="m17 2-5 5-5-5" />
     <rect width="20" height="15" x="2" y="7" rx="2" />
-    </svg>
-    """
-  end
-
-  @doc "twitch.svg"
-  def twitch(assigns) do
-    attrs = assigns_to_attributes(assigns)
-    assigns = assign(assigns, :attrs, attrs)
-
-    ~H"""
-    <svg {@attrs}
-    xmlns="http://www.w3.org/2000/svg"
-    width="24"
-    height="24"
-    viewBox="0 0 24 24"
-    fill="none"
-    stroke="currentColor"
-    stroke-width="2"
-    stroke-linecap="round"
-    stroke-linejoin="round"
-    >
-    <path d="M21 2H3v16h5v4l4-4h5l4-4V2zm-10 9V7m5 4V7" />
-    </svg>
-    """
-  end
-
-  @doc "twitter.svg"
-  def twitter(assigns) do
-    attrs = assigns_to_attributes(assigns)
-    assigns = assign(assigns, :attrs, attrs)
-
-    ~H"""
-    <svg {@attrs}
-    xmlns="http://www.w3.org/2000/svg"
-    width="24"
-    height="24"
-    viewBox="0 0 24 24"
-    fill="none"
-    stroke="currentColor"
-    stroke-width="2"
-    stroke-linecap="round"
-    stroke-linejoin="round"
-    >
-    <path d="M22 4s-.7 2.1-2 3.4c1.6 10-9.4 17.3-18 11.6 2.2.1 4.4-.6 6-2C3 15.5.5 9.6 3 5c2.2 2.6 5.6 4.1 9 4-.9-4.2 4-6.6 7-3.8 1.1 0 3-1.2 3-1.2z" />
     </svg>
     """
   end
@@ -42088,29 +41939,6 @@ defmodule Lucide do
     >
     <path d="M18 6 6 18" />
     <path d="m6 6 12 12" />
-    </svg>
-    """
-  end
-
-  @doc "youtube.svg"
-  def youtube(assigns) do
-    attrs = assigns_to_attributes(assigns)
-    assigns = assign(assigns, :attrs, attrs)
-
-    ~H"""
-    <svg {@attrs}
-    xmlns="http://www.w3.org/2000/svg"
-    width="24"
-    height="24"
-    viewBox="0 0 24 24"
-    fill="none"
-    stroke="currentColor"
-    stroke-width="2"
-    stroke-linecap="round"
-    stroke-linejoin="round"
-    >
-    <path d="M2.5 17a24.12 24.12 0 0 1 0-10 2 2 0 0 1 1.4-1.4 49.56 49.56 0 0 1 16.2 0A2 2 0 0 1 21.5 7a24.12 24.12 0 0 1 0 10 2 2 0 0 1-1.4 1.4 49.55 49.55 0 0 1-16.2 0A2 2 0 0 1 2.5 17" />
-    <path d="m10 15 5-3-5-3z" />
     </svg>
     """
   end
